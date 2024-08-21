@@ -12,6 +12,11 @@ Welcome to my GitHub profile! I'm software developer with more then 5 years of e
 - **Platforms**:&ensp;<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />&ensp;<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
 - **Tools**: &ensp;<img align="center" alt="Microsoft Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/e31937ba11fcf9ec0238312b008d2e09007936c0/topics/visual-studio/visual-studio.png" />&ensp;<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+### 📜 Certifications
+
+- **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc764f441f-81da-474e-a578-3aa0c263224f/foundational-c-sharp-with-microsoft)** [Microsoft]
+*Issued: 08/2024*
+
 ### 💬 Connect with me
 <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
