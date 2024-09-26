@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I'm software developer with more then 5 years of e
 
 - **[Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fcc764f441f-81da-474e-a578-3aa0c263224f/foundational-c-sharp-with-microsoft)** [Microsoft]
 *Issued: 08/2024*
+- **[GitHub Foundations](https://www.credly.com/go/0CBhvWbg)** [GitHub]
+*Issued: 09/2024*
 
 ### 💬 Connect with me
 <p>
