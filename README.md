@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm software developer with more then 5 years of e
 *Issued: 08/2024*
 - **[GitHub Foundations](https://www.credly.com/go/0CBhvWbg)** [GitHub]
 *Issued: 09/2024*
+- **[ASP.NET Core](https://learn.microsoft.com/en-us/users/ivannizic-5579/credentials/b12c5a29d18e4bb7)** [Microsoft]
+*Issued: 10/2024*
 
 ### 💬 Connect with me
 <p>
